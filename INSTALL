@@ -1,0 +1,9 @@
+Building Satoshi
+
+See doc/readme-qt.rst for instructions on building Satoshi-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Satoshi.
+
+See doc/build-*.txt for instructions on building satoshid,
+the intended-for-services, no-graphical-interface, reference
+implementation of Satoshi.
