@@ -14,8 +14,8 @@ Satoshi is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - subsidy halves in 840k blocks (~4 years)
  - ~50 million total coins
  - 27 coins per block
- - 
  
+
 For more information, as well as an immediately useable, binary version of
 the Satoshi client sofware, see http://www.satoshiera.com.
 
