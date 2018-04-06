@@ -4,12 +4,12 @@ Satoshi integration/staging tree
 http://www.satoshiera.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2018 Satoshi Developers
+Copyright (c) 2011-2018 SatoshiCoin Developers
 
-What is Satoshi?
+What is SatoshiCoin?
 ----------------
 
-Satoshi is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+SatoshiCoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
  - ~50 million total coins
@@ -17,12 +17,12 @@ Satoshi is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  
 
 For more information, as well as an immediately useable, binary version of
-the Satoshi client sofware, see http://www.satoshiera.com.
+the SatoshiCoin client sofware, see http://www.satoshiera.com.
 
 License
 -------
 
-Satoshi is released under the terms of the MIT license. See `COPYING` for more
+SatoshiCoin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
 Development process
@@ -31,7 +31,7 @@ Development process
 Developers work in their own trees, then submit pull requests when they think
 their feature or bug fix is ready.
 
-If it is a simple/trivial/non-controversial change, then one of the Satoshi
+If it is a simple/trivial/non-controversial change, then one of the SatoshiCoin
 development team members simply pulls it.
 
 If it is a *more complicated or potentially controversial* change, then the patch
@@ -44,7 +44,7 @@ controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
 completely stable. [Tags](https://github.com/teamsatoshi/satoshi/) are created
-regularly to indicate new official, stable release versions of Satoshi.
+regularly to indicate new official, stable release versions of SatoshiCoin.
 
 Testing
 -------
